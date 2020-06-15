@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ufft47&#x27; web</title>
+    <link href="https://ufft47.github.io/feed.xml" rel="self" />
+    <link href="https://ufft47.github.io" />
+    <updated>2020-06-16T01:20:44+08:00</updated>
+    <author>
+        <name>ufft47</name>
+    </author>
+    <id>https://ufft47.github.io</id>
+
+    <entry>
+        <title>second page</title>
+        <author>
+            <name>ufft47</name>
+        </author>
+        <link href="https://ufft47.github.io/second-page.html"/>
+        <id>https://ufft47.github.io/second-page.html</id>
+
+        <updated>2020-06-15T23:37:50+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

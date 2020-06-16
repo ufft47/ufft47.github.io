@@ -12,9 +12,9 @@
         {
             "id": "https://ufft47.github.io/three.html",
             "url": "https://ufft47.github.io/three.html",
-            "title": "three",
+            "title": "three page",
             "summary": "免費架一個站的工具愈來愈多自從寫了上一篇的「不會寫程式，也能自己架一個免費網站：Publii + Github pages」後，看到還可以免費架站的工具都會注意一下。 Augustus之前存下來的另外一個線上工具是：https://neocities.org/，也是很方便，註冊後輸入要的子網域名稱，把檔案上傳後，一個站就產生了。如果要客製域名就要另外加入成付費會員。 ",
-            "content_html": "<h2>免費架一個站的工具愈來愈多</h2>\n<p>自從寫了上一篇的「<a rel=\"noreferrer noopener\" aria-label=\"不會寫程式，也能自己架一個免費網站：Publii + Github pages (在新分頁中開啟)\" href=\"https://letswrite.tw/publii-github-pages/\" target=\"_blank\">不會寫程式，也能自己架一個免費網站：Publii + Github pages</a>」後，看到還可以免費架站的工具都會注意一下。</p>\n<p>Augustus之前存下來的另外一個線上工具是：<a href=\"https://neocities.org/\">https://neocities.org/</a>，也是很方便，註冊後輸入要的子網域名稱，把檔案上傳後，一個站就產生了。如果要客製域名就要另外加入成付費會員。</p>\n<p> </p>",
+            "content_html": "<h2>免費架一個站的工具愈來愈多</h2>\n<p>自從寫了上一篇的「<a rel=\"noreferrer noopener\" aria-label=\"不會寫程式，也能自己架一個免費網站：Publii + Github pages (在新分頁中開啟)\" href=\"https://letswrite.tw/publii-github-pages/\" target=\"_blank\">不會寫程式，也能自己架一個免費網站：Publii + Github pages</a>」後，看到還可以免費架站的工具都會注意一下。</p>\n<p>Augustus之前存下來的另外一個線上工具是：<a href=\"https://neocities.org/\">https://neocities.org/</a>，也是很方便，註冊後輸入要的子網域名稱，把檔案上傳後，一個站就產生了。如果要客製域名就要另外加入成付費會員。</p>\n<p><img class=\"post__image post__image--center\" src=\"https://ufft47.github.io/media/posts/2/Li-Fang-Ze-2-2.JPG\" alt=\"luke\" width=\"500\" height=\"500\"></p>",
             "image": "https://ufft47.github.io/media/posts/2/Li-Fang-Ze-2.JPG",
             "author": {
                 "name": "ufft47"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2020-06-16T09:41:34+08:00",
-            "date_modified": "2020-06-16T09:41:34+08:00"
+            "date_modified": "2020-06-16T09:47:52+08:00"
         },
         {
             "id": "https://ufft47.github.io/second-page.html",
@@ -34,7 +34,7 @@
             "tags": [
             ],
             "date_published": "2020-06-15T23:37:50+08:00",
-            "date_modified": "2020-06-15T23:37:50+08:00"
+            "date_modified": "2020-06-16T09:47:33+08:00"
         }
     ]
 }

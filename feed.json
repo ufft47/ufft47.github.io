@@ -13,8 +13,8 @@
             "id": "https://ufft47.github.io/three.html",
             "url": "https://ufft47.github.io/three.html",
             "title": "three page",
-            "summary": "免費架一個站的工具愈來愈多自從寫了上一篇的「不會寫程式，也能自己架一個免費網站：Publii + Github pages」後，看到還可以免費架站的工具都會注意一下。 Augustus之前存下來的另外一個線上工具是：https://neocities.org/，也是很方便，註冊後輸入要的子網域名稱，把檔案上傳後，一個站就產生了。如果要客製域名就要另外加入成付費會員。 ",
-            "content_html": "<h2>免費架一個站的工具愈來愈多</h2>\n<p>自從寫了上一篇的「<a rel=\"noreferrer noopener\" aria-label=\"不會寫程式，也能自己架一個免費網站：Publii + Github pages (在新分頁中開啟)\" href=\"https://letswrite.tw/publii-github-pages/\" target=\"_blank\">不會寫程式，也能自己架一個免費網站：Publii + Github pages</a>」後，看到還可以免費架站的工具都會注意一下。</p>\n<p>Augustus之前存下來的另外一個線上工具是：<a href=\"https://neocities.org/\">https://neocities.org/</a>，也是很方便，註冊後輸入要的子網域名稱，把檔案上傳後，一個站就產生了。如果要客製域名就要另外加入成付費會員。</p>\n<p><img class=\"post__image post__image--center\" src=\"https://ufft47.github.io/media/posts/2/Li-Fang-Ze-2-2.JPG\" alt=\"luke\" width=\"500\" height=\"500\"></p>",
+            "summary": "免費架一個站的工具愈來愈多自從寫了上一篇的「不會寫程式，也能自己架一個免費網站：Publii + Github pages」後，看到還可以免費架站的工具都會注意一下。 Augustus之前存下來的另外一個線上工具是：https://neocities.org/，也是很方便，註冊後輸入要的子網域名稱，把檔案上傳後，一個站就產生了。如果要客製域名就要另外加入成付費會員。 安裝了新佈景後，要怎麼讓你的網站使用這個佈景呢？ 首先，我們Publii還在佈景頁上，按一下右上角的「Select a website」，然後選擇你的網站： 回到Publii的主介面後，左邊那一排選單主要是控制你選擇的這個網站，雖然我們要改的是選用的佈景，但不是選「Theme」，要選「Settings」，選擇以後，右邊的區塊會呈現網站的設定。接著點Current theme那一排的「Select theme」，就會看見剛安裝的佈景：",
+            "content_html": "<h2>免費架一個站的工具愈來愈多</h2>\n<p>自從寫了上一篇的「<a rel=\"noreferrer noopener\" aria-label=\"不會寫程式，也能自己架一個免費網站：Publii + Github pages (在新分頁中開啟)\" href=\"https://letswrite.tw/publii-github-pages/\" target=\"_blank\">不會寫程式，也能自己架一個免費網站：Publii + Github pages</a>」後，看到還可以免費架站的工具都會注意一下。</p>\n<p>Augustus之前存下來的另外一個線上工具是：<a href=\"https://neocities.org/\">https://neocities.org/</a>，也是很方便，註冊後輸入要的子網域名稱，把檔案上傳後，一個站就產生了。如果要客製域名就要另外加入成付費會員。</p>\n<p><img class=\"post__image post__image--center\" src=\"https://ufft47.github.io/media/posts/2/Li-Fang-Ze-2-2.JPG\" alt=\"luke\" width=\"500\" height=\"500\"></p>\n<p> </p>\n<h4>切換佈景</h4>\n<p>安裝了新佈景後，要怎麼讓你的網站使用這個佈景呢？</p>\n<p>首先，我們Publii還在佈景頁上，按一下右上角的「Select a website」，然後選擇你的網站：</p>\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter\"><img class=\" lazyloaded\" src=\"https://imgur.com/smVsXVy.png\" alt=\"選擇要改變佈景的網站\" >\n<figcaption>選擇要改變佈景的網站</figcaption>\n</figure>\n</div>\n<p>回到Publii的主介面後，左邊那一排選單主要是控制你選擇的這個網站，雖然我們要改的是選用的佈景，但不是選「Theme」，要選「Settings」，選擇以後，右邊的區塊會呈現網站的設定。接著點Current theme那一排的「Select theme」，就會看見剛安裝的佈景：</p>",
             "image": "https://ufft47.github.io/media/posts/2/Li-Fang-Ze-2.JPG",
             "author": {
                 "name": "ufft47"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2020-06-16T09:41:34+08:00",
-            "date_modified": "2020-06-16T09:47:52+08:00"
+            "date_modified": "2020-06-16T09:51:20+08:00"
         },
         {
             "id": "https://ufft47.github.io/second-page.html",

@@ -3,12 +3,37 @@
     <title>ufft47&#x27; web</title>
     <link href="https://ufft47.github.io/feed.xml" rel="self" />
     <link href="https://ufft47.github.io" />
-    <updated>2020-06-16T09:00:25+08:00</updated>
+    <updated>2020-06-16T09:41:41+08:00</updated>
     <author>
         <name>ufft47</name>
     </author>
     <id>https://ufft47.github.io</id>
 
+    <entry>
+        <title>three</title>
+        <author>
+            <name>ufft47</name>
+        </author>
+        <link href="https://ufft47.github.io/three.html"/>
+        <id>https://ufft47.github.io/three.html</id>
+
+        <updated>2020-06-16T09:41:34+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ufft47.github.io/media/posts/2/Li-Fang-Ze-2.JPG" alt="111" />
+                    免費架一個站的工具愈來愈多自從寫了上一篇的「不會寫程式，也能自己架一個免費網站：Publii + Github pages」後，看到還可以免費架站的工具都會注意一下。 Augustus之前存下來的另外一個線上工具是：https://neocities.org/，也是很方便，註冊後輸入要的子網域名稱，把檔案上傳後，一個站就產生了。如果要客製域名就要另外加入成付費會員。 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://ufft47.github.io/media/posts/2/Li-Fang-Ze-2.JPG" alt="111" />
+                <h2>免費架一個站的工具愈來愈多</h2>
+<p>自從寫了上一篇的「<a rel="noreferrer noopener" aria-label="不會寫程式，也能自己架一個免費網站：Publii + Github pages (在新分頁中開啟)" href="https://letswrite.tw/publii-github-pages/" target="_blank">不會寫程式，也能自己架一個免費網站：Publii + Github pages</a>」後，看到還可以免費架站的工具都會注意一下。</p>
+<p>Augustus之前存下來的另外一個線上工具是：<a href="https://neocities.org/">https://neocities.org/</a>，也是很方便，註冊後輸入要的子網域名稱，把檔案上傳後，一個站就產生了。如果要客製域名就要另外加入成付費會員。</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>second page</title>
         <author>
